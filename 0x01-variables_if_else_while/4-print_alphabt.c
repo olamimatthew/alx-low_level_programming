@@ -4,7 +4,7 @@
 
 /**
  *
- * main - Prints the alphabet without q and e
+ * main - Entry point
  *
  * Return: Always 0 (Success)
  */
