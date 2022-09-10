@@ -10,7 +10,6 @@
 
 int main(void)
 {
-	char i[26] = "abcdefghijklmnopqrstuvwxyz";
 	
 	int i;
 
