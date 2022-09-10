@@ -14,7 +14,7 @@ int main(void)
 
 	int i;
 	
-	for (i = 27; i >= 1; i--)
+	for (i = 27; i >= 0; i--)
 	{
 		putchar(alp[i]);
 	}
