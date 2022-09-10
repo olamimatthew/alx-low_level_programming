@@ -10,11 +10,11 @@
 
 int main(void)
 {
-	char alp = "abcdefghijklmnopqrstuvwxyz";
+	char alp[27] = "abcdefghijklmnopqrstuvwxyz";
 
 	int i;
 	
-	for (i = 26; i >= 0; i--)
+	for (i = 27; i >= 1; i--)
 	{
 		putchar(alp[i]);
 	}
