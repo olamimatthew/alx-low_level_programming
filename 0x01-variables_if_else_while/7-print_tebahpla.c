@@ -10,13 +10,13 @@
 
 int main(void)
 {
+	int i
 	
-	char low
-
-	for (low = z; low >= a; low--)
+	for (i = 26; i > 1; i--)
 	{
-		putchar(low);
+		putchar(i);
 	}
+
 	putchar('\n');
 	return (0);
 }
