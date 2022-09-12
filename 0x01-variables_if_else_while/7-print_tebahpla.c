@@ -14,7 +14,7 @@ int main(void)
 	char alp[] = "zyxwvutsrqponmlkjihgfedcba"
 
 	{
-		putchar(alp);
+		putchar("%s", alp);
 	}
 	putchar('\n');
 	return (0);
