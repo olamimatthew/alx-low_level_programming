@@ -12,11 +12,11 @@ int main(void)
 {
 	int a;
 
-	for (a = 28; a < 38; a++)
+	for (a = 48; a < 58; a++)
 	{
 		putchar(a);
 	}
-	for (a = 67; a < 73; a++)
+	for (a = 97; a < 103; a++)
 	{
 		putchar(a);
 	}
