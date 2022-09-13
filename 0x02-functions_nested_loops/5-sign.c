@@ -5,7 +5,7 @@
  * Returns 0 and prints 0 if n is zero
  * Returns -1 and prints - if n is less than zero
  *
- * @c: the input number as an integer
+ * @n: the input number as an integer
  *
  * Return: 1 if number is greater than zero, 0 if number is zero
  * -1 if number is less than zero
