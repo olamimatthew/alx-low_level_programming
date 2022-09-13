@@ -6,7 +6,7 @@
  * Return: Always 1 (Success)
  */
 
-void print_alphabet(void);
+void print_alphabet(void)
 {
 	char j;
 
