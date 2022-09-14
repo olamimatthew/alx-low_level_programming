@@ -8,7 +8,7 @@
  * Return: int
  */
 
-int _abd(int n)
+int _abs(int n)
 {
 	if (n < 0)
 	{
