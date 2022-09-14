@@ -18,7 +18,7 @@ void times_table(void)
 			k = i * j;
 			_putchar(44);
 			_putchar(32);
-			if (k <= 9);
+			if (k <= 9)
 			{
 				_putchar(32);
 				_putchar(k + 48);
