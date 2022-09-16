@@ -2,6 +2,7 @@
 
 /**
  * _isdigit - checks if an character is digit
+ * @c: character to be checked if its digit
  * Return: 1 if digit, 0 otherwise
  */
 int _isdigit(int c)
