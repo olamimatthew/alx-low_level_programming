@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Prints number from 1 to 100.
+ * main - prints Buzz each numbers of 3 and 5.
  * Return: Always 0.
  */
 int main(void)
@@ -14,15 +14,15 @@ int main(void)
 	{
 		if ((i % 3 == 0) && (i % 5 == 0))
 		{
-			printf(" fizzbuzz");
+			printf(" FizzBuzz");
 		}
 		else if (i % 3 == 0)
 		{
-			printf(" fizz");
+			printf(" Fizz");
 		}
 		else if (i % 5 == 0)
 		{
-			printf(" buzz");
+			printf(" Buzz");
 		}
 		else
 		{
