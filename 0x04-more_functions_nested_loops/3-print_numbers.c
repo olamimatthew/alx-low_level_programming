@@ -3,6 +3,7 @@
 /**
  * print_numbers - print numbers from 0 to 9
  * @a: character to print numbers
+ * Return: nothing
  */
 void print_numbers(void)
 {
