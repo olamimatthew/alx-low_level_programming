@@ -5,7 +5,7 @@
  * @s: input string
  * Return: Learn of a string.
  */
- 
+
 int _strlen(char *s)
 {
 	int count = 0;
