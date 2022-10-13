@@ -29,7 +29,7 @@ int op_sub(int a, int b)
  * @a: first integer
  * @b: second integer
  *
- * Return: The result 
+ * Return: The result
  */
 int op_mul(int a, int b)
 {
